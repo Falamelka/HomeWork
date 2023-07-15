@@ -1,0 +1,10 @@
+.user-card_image {
+  width: 100px;
+  height: 100px;
+  background-color: #333;
+  border-radius: 50%;
+}
+
+.user-card_desc--color-green {
+  color: green;
+}
