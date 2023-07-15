@@ -1,0 +1,28 @@
+div {
+  color: green; 
+
+}
+
+.parent{
+  color: red;
+  border: 3px solid #000;
+}
+#id-block{
+  background-color: #000;
+}
+
+.block1, .block2, .block3 {
+  color: red;
+}
+
+div.blue-block {
+  color: blue;
+}
+
+div .orange {
+  color:orange;
+}
+
+.parent-1>.child-1 {
+  color:orange;
+}
